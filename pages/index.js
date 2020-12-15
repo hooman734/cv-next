@@ -139,6 +139,19 @@ export default function Home() {
               </ul>
             </div>
             {/* end general skills */}
+            {/* links */}
+            <div className="lg:col-span-1 my-4 lg:my-2">
+              <h3 className="font-black text-2xl text-gray-500">Links</h3>
+              <ul className="list-disc list-outside mx-5">
+                <li className="py-1">
+                  <p>Master Diploma: <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Professional proficiency</span></p>
+                </li>
+                <li className="py-1">
+                  <p>IELTS General: <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">6.5</span></p>
+                </li>
+              </ul>
+            </div>
+            {/* end links */}
           </div>
           </div>
         </div>
