@@ -28,23 +28,23 @@ export default function Home() {
                       <tbody>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Email:</th>
-                        <th className="text-sm text-right px-1 text-gray-600">hesamyan@gmail.com</th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="mailto:hesamyan@gmail.com" target="_blank">hesamyan@gmail.com</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Website:</th>
-                        <th className="text-sm text-right px-1 text-gray-600">hooman.hesamyan.com</th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="http://hooman.hesamyan.com" target="_blank">hooman.hesamyan.com</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Linkedin:</th>
-                        <th className="text-sm text-right px-1 text-gray-600">linkedin.com/in/hesamyan</th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="https://linkedin.com/in/hesamyan" target="_blank">linkedin.com/in/hesamyan</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">GitHub:​</th>
-                        <th className="text-sm text-right px-1 text-gray-600">github.com/hooman734</th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="https://github.com/hooman734" target="_blank">github.com/hooman734</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Phone:</th>
-                        <th className="text-sm text-right px-3 text-gray-600">+374-77-281-774</th>
+                        <th className="text-sm text-right px-3 text-gray-600"><a href="tel:+374281774" target="_blank">+374-77-281-774</a></th>
                       </tr>
                       </tbody>
                     </table>
