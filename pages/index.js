@@ -32,7 +32,7 @@ export default function Home() {
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Website:</th>
-                        <th className="text-sm text-right px-1 text-gray-600"><a href="http://hooman.hesamian.com" target="_blank">hooman.hesamian.com</a></th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="http://hesamian.com" target="_blank">hesamian.com</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Linkedin:</th>
