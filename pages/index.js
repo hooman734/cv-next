@@ -32,7 +32,7 @@ export default function Home() {
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Website:</th>
-                        <th className="text-sm text-right px-1 text-gray-600"><a href="http://hooman.hesamyan.com" target="_blank">hooman.hesamyan.com</a></th>
+                        <th className="text-sm text-right px-1 text-gray-600"><a href="http://hooman.hesamian.com" target="_blank">hooman.hesamian.com</a></th>
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Linkedin:</th>
@@ -44,7 +44,7 @@ export default function Home() {
                       </tr>
                       <tr className="leading-tight">
                         <th className="text-left font-bold">Phone:</th>
-                        <th className="text-sm text-right px-3 text-gray-600"><a href="tel:+374281774" target="_blank">+374-77-281-774</a></th>
+                        <th className="text-sm text-right px-3 text-gray-600"><a href="tel:+37477281774" target="_blank">+374-77-281-774</a></th>
                       </tr>
                       </tbody>
                     </table>
