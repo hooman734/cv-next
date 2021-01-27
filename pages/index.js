@@ -136,6 +136,9 @@ export default function Home() {
                       <li className="py-1">
                         <p>IELTS General: <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">6.5</span></p>
                       </li>
+                      <li className="py-1">
+                        <p>TOEFL Academic: <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">86</span></p>
+                      </li>
                     </ul>
                   </div>
                   {/* end general skills */}
