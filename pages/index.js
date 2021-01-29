@@ -150,13 +150,13 @@ export default function Home() {
                         <p><a href={'https://hooman734.github.io/assets/Masters-Diploma.pdf'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Master Diploma</span></a></p>
                       </li>
                       <li className="py-1">
-                        <p>Story - December31, <span className="align-text-bottom italic">2020</span> -   <a href={'https://hesamyan.medium.com/implementing-four-types-of-linked-lists-d812d5c39812'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Implementing four types of linked-lists</span></a></p>
+                        <p>Article - December31, <span className="align-text-bottom italic">2020</span> -   <a href={'https://hesamyan.medium.com/implementing-four-types-of-linked-lists-d812d5c39812'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Implementing four types of linked-lists</span></a></p>
                       </li>
                       <li className="py-1">
-                        <p>Story - December24, <span className="align-text-bottom italic">2020</span> -   <a href={'https://hesamyan.medium.com/switching-from-networkmanager-to-systemd-networkd-dcbda0b15056'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Switching from NetworkManager to systemd-networkd</span></a></p>
+                        <p>Article - December24, <span className="align-text-bottom italic">2020</span> -   <a href={'https://hesamyan.medium.com/switching-from-networkmanager-to-systemd-networkd-dcbda0b15056'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Switching from NetworkManager to systemd-networkd</span></a></p>
                       </li>
                       <li className="py-1">
-                        <p>Story - December9, <span className="align-text-bottom italic">2020</span> -   <a href={'https://medium.com/@hesamyan/deploying-a-react-web-application-thats-created-by-create-react-app-2234ddf8eafa'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Deploying a React Web Application that's created by create-react-app</span></a></p>
+                        <p>Article - December9, <span className="align-text-bottom italic">2020</span> -   <a href={'https://medium.com/@hesamyan/deploying-a-react-web-application-thats-created-by-create-react-app-2234ddf8eafa'} target={'_blank'}><span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Deploying a React Web Application that's created by create-react-app</span></a></p>
                       </li>
                     </ul>
                   </div>
