@@ -1,0 +1,16 @@
+#Docker image for my CV application built by Nextjs
+#Hooman Hesamyan
+
+#Stage 1
+FROM node:latest AS nd
+LABEL "Authour"="Hooman Hesamyan"
+LABEL "Name"="CV"
+RUN mkdir -p home/app
+WORKDIR home/app
+COPY . .
+RUN npm install
+RUN npm run build
+
+#Stage 2
+FROM nginx:alpine
+COPY --from=nd /home/app/.next/server/pages /usr/share/nginx/html
