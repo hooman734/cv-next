@@ -92,7 +92,7 @@ export default function Home() {
                   <div className="lg:col-span-1 my-4 lg:my-2">
                     <h3 className="font-black text-2xl text-gray-500">Technical Skills</h3>
                     <ul className="list-disc list-outside mx-5 text-gray-700">
-                      <li className="py-1">Languages <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Java, JavaScript, SQL, Python, C/C++, C#, Golang, Lua</span></li>
+                      <li className="py-1">Languages <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Java, JavaScript, SQL, Python, Golang, C/C++, C#, F#</span></li>
                       <li className="py-1">Front-End <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">HTML, CSS, jQuery, tailwind, bootstrap, Semantic-UI, Angular.js, Angular, React, Vue.js</span></li>
                       <li className="py-1">Back-End <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Node.js, Express.js, .NET Core, Koa.js, Flask, Django, Spring Boot</span></li>
                       <li className="py-1">Libraries <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Tkinter, Sequelize.js, Entity Framework.Core</span></li>
