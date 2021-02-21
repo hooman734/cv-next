@@ -97,7 +97,7 @@ export default function Home() {
                       <li className="py-1">Back-End <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Node.js, Express.js, .NET Core, Koa.js, Flask, Django, Spring Boot</span></li>
                       <li className="py-1">Libraries <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Tkinter, Sequelize.js, Entity Framework.Core</span></li>
                       <li className="py-1">Database / Storage <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">SQLite, ​MySQL, Postgres, Oracle SQL, MongoDB, S3</span></li>
-                      <li className="py-1">Application Software <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Git, ash, Linux, Heroku, Docker, docker-compose, localstack</span></li>
+                      <li className="py-1">Application Software <span className="text-gray-800 font-bold align-text-top text-sm bg-gray-200 rounded">Git, Linux, Heroku, Docker, docker-compose, localstack</span></li>
                     </ul>
                   </div>
                   {/* end technical skills */}
